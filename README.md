@@ -7,4 +7,4 @@
 
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Tarvey)](https://github.com/anuraghazra/github-readme-stats)
+![Tarvey' GitHub stats](https://github-readme-stats.vercel.app/api?username=Tarvey&show_icons=true&theme=dark)
