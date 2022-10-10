@@ -4,11 +4,4 @@
 
 
 <p align="center" ## Me <img src= "https://cdn.discordapp.com/emojis/894175687878017055.png?size=80" alt='stats' width="20px">
-
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=quaqak" alt="Profile Views" /> </p>  
-
-<p align="center">
-  <a href="https://discord.com/users/609020056768348171">
-     <img src="https://discord.c99.nl/widget/theme-4/609020056768348171.png" alt="quaqak#2450"/>
-       </a>
-</p>
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Tarvey)](https://github.com/anuraghazra/github-readme-stats)
