@@ -1,6 +1,7 @@
-+ I’m Tarvey, AKA Hiroblue
-+ I’m interested in Coding
-+ I’m currently learning C# And js
+# I’m Tarvey, AKA quaqak (formerly Hiroblue)
+## I’m currently learning C# And js
+### I’m interested in Coding
+
 
 
 <p align="center" ## Me <img src= "https://cdn.discordapp.com/emojis/894175687878017055.png?size=80" alt='stats' width="20px">
