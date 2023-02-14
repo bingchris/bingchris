@@ -1,4 +1,4 @@
-# I’m Tarvey, AKA quaqak (formerly Hiroblue)
+# I’m Tarvey, AKA filebone (formerly quaqak, Hiroblue)
 ### I’m currently learning C# And js
 ### I’m interested in Coding
 
