@@ -8,4 +8,6 @@ Other than that, I use Visual Studio Code for coding, Firefox Nightly for web br
 ## Other
 ![Tarvey' GitHub stats](https://github-readme-stats.vercel.app/api?username=Tarvey&show_icons=true&theme=dark&hide=contribs)
 
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Tarvey&theme=dark)
+
 ![](https://komarev.com/ghpvc/?username=Tarvey&color=orange)
