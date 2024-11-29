@@ -7,3 +7,5 @@ I use Arch Linux with dwm and picom, my configuration is very simple, no big con
 Other than that, I use Visual Studio Code for coding, Firefox Nightly for web browsing, and Vesktop for messaging.
 ## Other
 ![Tarvey' GitHub stats](https://github-readme-stats.vercel.app/api?username=Tarvey&show_icons=true&theme=dark&hide=contribs)
+
+![](https://komarev.com/ghpvc/?username=Tarvey&color=orange)
