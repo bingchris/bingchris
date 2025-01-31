@@ -5,6 +5,7 @@
 I am a programmer from Poland, I'm focused on C++ and Linux right now, aswell as some little web technologies.
 
 My current project is omdoh, an IM server made in PHP.
+
 <img src="https://github.com/user-attachments/assets/1a9b22a0-935a-4a28-820f-f4b4642d1601" alt="typing" width="200" />
 
 
