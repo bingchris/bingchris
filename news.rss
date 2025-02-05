@@ -1,0 +1,10 @@
+<rss>
+  <channel>
+    <title>News</title>
+    <item>
+       <title>A post</title>
+        <content>Hello! <h2>AAAA</h2></content>
+        <date>sometime in 2025.</date>
+    </item>
+  </channel>
+</rss>
