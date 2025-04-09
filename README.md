@@ -16,8 +16,8 @@
     <th>Statistics</th>
   </tr>
   <tr>
-    <td><img src="https://github-readme-stats.vercel.app/api?username=Tarvey&show_icons=true&theme=dark&hide=contribs" alt="Tarvey's GitHub stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tarvey&theme=dark" alt="Top Languages">
+    <td><img src="https://github-readme-stats.vercel.app/api?username=bingchris&show_icons=true&theme=dark&hide=contribs" alt="chrisbing's GitHub stats">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bingchris&theme=dark" alt="Top Languages">
     <img src="https://komarev.com/ghpvc/?username=Tarvey&color=orange" alt="Profile views"></td>
   </tr>
 </table>
