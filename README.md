@@ -4,7 +4,7 @@
     <th>About me</th>
   </tr>
   <tr>
-    <td>I am a programmer from Poland, I'm focused on C++ and Linux right now, aswell as some little web technologies.<br>My current project is omdoh, an IM server made in Python.</td>
+    <td>I am a programmer from Poland, I'm focused on C++ and Linux right now, aswell as some little web technologies.<br>My current project is Keystone, a musl-compatible kernel written in C.</td>
   </tr>
   <tr>
     <th>What do I know?</th>
