@@ -1,0 +1,225 @@
+{
+ "key": "d23a4516",
+ "stars": 12,
+ "contributions": 97,
+ "repos": 9,
+ "followers": 11,
+ "languages": [
+  [
+   "C",
+   78511
+  ],
+  [
+   "C++",
+   9043
+  ],
+  [
+   "HTML",
+   7503
+  ],
+  [
+   "Go",
+   5815
+  ],
+  [
+   "CSS",
+   966
+  ],
+  [
+   "JavaScript",
+   739
+  ],
+  [
+   "Linker Script",
+   647
+  ]
+ ],
+ "days": [
+  [
+   {
+    "c": 0,
+    "day": 8,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 9,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 10,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 11,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 12,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 13,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 14,
+    "today": false
+   }
+  ],
+  [
+   {
+    "c": 2,
+    "day": 15,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 16,
+    "today": false
+   },
+   {
+    "c": 2,
+    "day": 17,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 18,
+    "today": false
+   },
+   {
+    "c": 1,
+    "day": 19,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 20,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 21,
+    "today": false
+   }
+  ],
+  [
+   {
+    "c": 0,
+    "day": 22,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 23,
+    "today": false
+   },
+   {
+    "c": 2,
+    "day": 24,
+    "today": true
+   },
+   null,
+   null,
+   null,
+   null
+  ]
+ ],
+ "streak": {
+  "current": 1,
+  "longest": 3
+ },
+ "pins": [],
+ "all": [
+  {
+   "name": "keystone",
+   "url": "https://github.com/bingchris/keystone",
+   "text": "a kernel planning to be musl-compatible",
+   "fork": false,
+   "stars": 5,
+   "language": "C",
+   "topics": []
+  },
+  {
+   "name": "UniSky-PL",
+   "url": "https://github.com/bingchris/UniSky-PL",
+   "text": "A BlueSky client for Windows 11, Windows 10 and Windows 10 Mobile (Polish Translation)",
+   "fork": true,
+   "stars": 3,
+   "language": "C#",
+   "topics": []
+  },
+  {
+   "name": "fpm",
+   "url": "https://github.com/bingchris/fpm",
+   "text": "",
+   "fork": false,
+   "stars": 3,
+   "language": "C++",
+   "topics": []
+  },
+  {
+   "name": "Pinto",
+   "url": "https://github.com/bingchris/Pinto",
+   "text": "A modernish IM client inspired by Skype 0.97",
+   "fork": true,
+   "stars": 3,
+   "language": "C#",
+   "topics": []
+  },
+  {
+   "name": "Tarvey.github.io",
+   "url": "https://github.com/bingchris/Tarvey.github.io",
+   "text": "",
+   "fork": false,
+   "stars": 3,
+   "language": "HTML",
+   "topics": []
+  },
+  {
+   "name": "silly-cat-dupe",
+   "url": "https://github.com/bingchris/silly-cat-dupe",
+   "text": "The silly cat dupe",
+   "fork": true,
+   "stars": 1,
+   "language": null,
+   "topics": []
+  },
+  {
+   "name": "bingchris",
+   "url": "https://github.com/bingchris/bingchris",
+   "text": "Config files for my GitHub profile.",
+   "fork": false,
+   "stars": 1,
+   "language": null,
+   "topics": [
+    "config",
+    "github-config"
+   ]
+  },
+  {
+   "name": "hamoc",
+   "url": "https://github.com/bingchris/hamoc",
+   "text": "go thingyabob",
+   "fork": false,
+   "stars": 0,
+   "language": "Go",
+   "topics": []
+  },
+  {
+   "name": "Novetus_src",
+   "url": "https://github.com/bingchris/Novetus_src",
+   "text": "A multi-version ROBLOX client launcher built to allow the user to run LAN and Internet servers.",
+   "fork": true,
+   "stars": 0,
+   "language": "Lua",
+   "topics": []
+  }
+ ]
+}
